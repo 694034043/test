@@ -1,6 +1,6 @@
 package reflect.cglib;
 
-public class CglibProxyTest implements MethodInterceptor {
+public class CglibProxyTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
